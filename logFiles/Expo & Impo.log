@@ -1,0 +1,21 @@
+04-09-2021 14:04:50,INFO,Using The energyefficiency Database
+04-09-2021 14:05:00,INFO,Creating The Connection With The DataStax Connection
+04-09-2021 14:07:16,INFO,Using The energy Keyspace
+04-09-2021 14:07:17,INFO,Using The energy Keyspace For Table Creation
+04-09-2021 14:09:40,INFO,Creating The Table With Name energy_data
+04-09-2021 14:09:41,INFO,Table Is Created Inside The Keyspace having a Name energy_data
+04-09-2021 14:14:41,INFO,Trying To Put The Data Into The Database For Backup Purpose
+04-09-2021 14:19:26,INFO,Trying To Put The Data Into The Database For Backup Purpose
+04-09-2021 14:22:53,INFO,Trying To Get The Data Form The Database For EDA Purpose
+04-09-2021 14:25:15,INFO,Trying To Get The Data Form The Database For EDA Purpose
+04-09-2021 14:25:18,INFO,The Data Is Import Successfuly
+04-09-2021 14:26:02,INFO,Trying To Get The Data Form The Database For EDA Purpose
+04-09-2021 14:26:06,INFO,The Data Is Import Successfuly
+04-09-2021 14:27:31,INFO,Trying To Get The Data Form The Database For EDA Purpose
+04-09-2021 14:27:35,INFO,The Data Is Import Successfuly
+04-09-2021 14:27:50,INFO,Trying To Get The Data Form The Database For EDA Purpose
+04-09-2021 14:27:54,INFO,The Data Is Import Successfuly
+04-09-2021 14:35:02,INFO,Loading The Data Into Given IDE
+04-09-2021 14:35:05,INFO,Sorthing Data According To The ID Column
+04-09-2021 14:35:27,INFO,Loading The Data Into Given IDE
+04-09-2021 14:36:04,INFO,Loading The Data Into Given IDE

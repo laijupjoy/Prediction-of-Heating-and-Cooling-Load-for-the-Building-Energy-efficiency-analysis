@@ -1,0 +1,19 @@
+04-09-2021 14:04:50,INFO,Trying To Connect With The DataStax Server
+04-09-2021 14:05:00,INFO,Connetion Is Created With DataStax Server
+04-09-2021 14:07:16,INFO,Using The Keyspace That We Created At Time of Database Creating
+04-09-2021 14:07:17,INFO,The energy Is Selected
+04-09-2021 14:09:40,INFO,Table Is Creating Inside The Selected Keyspace
+04-09-2021 14:09:41,INFO,The Table Is Created Inside The energy With Name energy_data
+04-09-2021 14:14:41,INFO,Trying To Add Data Into The Database
+04-09-2021 14:19:26,INFO,Trying To Add Data Into The Database
+04-09-2021 14:22:53,INFO,Trying To Add Data Into The Database
+04-09-2021 14:25:15,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:26:02,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:27:31,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:27:50,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:29:31,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:30:18,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:33:09,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:35:02,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:35:27,INFO,Trying To Get The Data From The DataBase
+04-09-2021 14:36:04,INFO,Trying To Get The Data From The DataBase

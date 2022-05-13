@@ -1,0 +1,424 @@
+11-09-2021 11:28:20,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:28:22,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:28:41,INFO,The Home Page Is Displayed
+11-09-2021 11:30:39,INFO,Request Method : POST
+11-09-2021 11:31:07,INFO,Request Method : POST
+11-09-2021 11:33:10,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:33:12,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:33:20,INFO,The Home Page Is Displayed
+11-09-2021 11:34:14,INFO,Request Method : POST
+11-09-2021 11:34:29,INFO,Request Method : POST
+11-09-2021 11:36:43,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:36:46,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:36:51,INFO,The Home Page Is Displayed
+11-09-2021 11:38:06,INFO,Request Method : POST
+11-09-2021 11:38:06,INFO,All The Feature Is Selected By Value
+11-09-2021 11:38:06,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:38:06,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:38:18,INFO,Request Method : POST
+11-09-2021 11:38:18,INFO,All The Feature Is Selected By Value
+11-09-2021 11:38:18,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:38:18,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:38:53,INFO,Request Method : POST
+11-09-2021 11:38:53,INFO,All The Feature Is Selected By Value
+11-09-2021 11:38:53,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:38:53,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:39:50,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:39:53,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:40:00,INFO,The Home Page Is Displayed
+11-09-2021 11:40:57,INFO,Request Method : POST
+11-09-2021 11:40:57,INFO,All The Feature Is Selected By Value
+11-09-2021 11:40:57,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:40:57,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:42:26,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:42:29,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:42:32,INFO,The Home Page Is Displayed
+11-09-2021 11:43:12,INFO,Request Method : POST
+11-09-2021 11:43:12,INFO,All The Feature Is Selected By Value
+11-09-2021 11:43:12,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:43:12,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:51:34,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:53:16,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:55:48,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:58:46,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:58:48,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:58:51,INFO,The Home Page Is Displayed
+11-09-2021 12:00:38,INFO,Request Method : POST
+11-09-2021 12:00:38,INFO,All The Feature Is Selected By Value
+11-09-2021 12:00:38,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:01:26,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:01:30,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:02:13,INFO,The Home Page Is Displayed
+11-09-2021 12:03:20,INFO,Request Method : POST
+11-09-2021 12:03:20,INFO,All The Feature Is Selected By Value
+11-09-2021 12:03:20,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:03:20,INFO,Applying The PCA On Scaling User Data
+11-09-2021 12:04:59,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:05:02,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:05:06,INFO,The Home Page Is Displayed
+11-09-2021 12:05:47,INFO,Request Method : POST
+11-09-2021 12:05:47,INFO,All The Feature Is Selected By Value
+11-09-2021 12:05:47,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:05:47,INFO,Applying The PCA On Scaling User Data
+11-09-2021 12:07:36,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:20:42,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:20:45,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:21:21,INFO,The Home Page Is Displayed
+11-09-2021 12:21:25,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:22:17,INFO,Request Method : POST
+11-09-2021 12:22:17,INFO,All The Feature Is Selected By Value
+11-09-2021 12:22:17,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:22:17,INFO,Applying The PCA On Scaling User Data
+11-09-2021 12:22:17,INFO,Predicting The Final Outputs
+11-09-2021 13:31:16,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 13:31:20,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-09-2021 13:31:23,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 13:31:23,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-09-2021 13:31:28,INFO,The Home Page Is Displayed
+11-09-2021 13:32:18,INFO,Request Method : POST
+11-09-2021 13:32:18,INFO,All The Feature Is Selected By Value
+11-09-2021 13:32:18,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 13:32:18,INFO,Applying The PCA On Scaling User Data
+11-09-2021 13:32:18,INFO,Predicting The Final Outputs
+11-09-2021 13:33:29,INFO,Request Method : POST
+11-09-2021 13:33:29,INFO,All The Feature Is Selected By Value
+11-09-2021 13:33:29,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 13:33:29,INFO,Applying The PCA On Scaling User Data
+11-09-2021 13:33:29,INFO,Predicting The Final Outputs
+09-05-2022 11:04:05,INFO,Loading Pickle File For The Heating & Cooling Load
+09-05-2022 11:04:05,INFO,Pickle File Load For Heating, Cooling & PCA Model
+09-05-2022 11:04:21,INFO,Loading Pickle File For The Heating & Cooling Load
+09-05-2022 11:04:22,INFO,Pickle File Load For Heating, Cooling & PCA Model
+09-05-2022 11:05:23,INFO,The Home Page Is Displayed
+09-05-2022 11:09:59,INFO,Request Method : POST
+09-05-2022 11:09:59,INFO,All The Feature Is Selected By Value
+09-05-2022 11:09:59,INFO,Applying Min-Max Scaler For The Heating Load
+09-05-2022 11:09:59,INFO,Applying The PCA On Scaling User Data
+09-05-2022 11:09:59,INFO,Predicting The Final Outputs
+09-05-2022 21:18:08,INFO,Loading Pickle File For The Heating & Cooling Load
+09-05-2022 21:18:11,INFO,Pickle File Load For Heating, Cooling & PCA Model
+09-05-2022 21:18:14,INFO,Loading Pickle File For The Heating & Cooling Load
+09-05-2022 21:18:15,INFO,Pickle File Load For Heating, Cooling & PCA Model
+09-05-2022 21:18:21,INFO,The Home Page Is Displayed
+11-05-2022 14:54:46,INFO,Loading Pickle File For The Heating & Cooling Load
+11-05-2022 14:54:48,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-05-2022 14:54:50,INFO,Loading Pickle File For The Heating & Cooling Load
+11-05-2022 14:54:50,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-05-2022 14:56:31,INFO,The Home Page Is Displayed
+11-05-2022 15:02:37,INFO,The Home Page Is Displayed
+11-05-2022 15:03:33,INFO,The Home Page Is Displayed
+11-05-2022 15:05:12,INFO,The Home Page Is Displayed
+11-05-2022 15:05:36,INFO,The Home Page Is Displayed
+11-05-2022 15:06:00,INFO,The Home Page Is Displayed
+11-05-2022 15:06:36,INFO,The Home Page Is Displayed
+11-05-2022 15:08:57,INFO,The Home Page Is Displayed
+11-05-2022 15:09:44,INFO,The Home Page Is Displayed
+11-05-2022 15:11:41,INFO,The Home Page Is Displayed
+11-05-2022 15:12:42,INFO,The Home Page Is Displayed
+11-05-2022 15:15:07,INFO,The Home Page Is Displayed
+11-05-2022 15:16:05,INFO,The Home Page Is Displayed
+11-05-2022 15:16:33,INFO,Request Method : POST
+11-05-2022 15:16:33,INFO,All The Feature Is Selected By Value
+11-05-2022 15:16:33,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:16:33,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:16:33,INFO,Predicting The Final Outputs
+11-05-2022 15:18:53,INFO,Request Method : POST
+11-05-2022 15:18:53,INFO,All The Feature Is Selected By Value
+11-05-2022 15:18:53,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:18:53,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:18:53,INFO,Predicting The Final Outputs
+11-05-2022 15:19:19,INFO,Request Method : POST
+11-05-2022 15:19:19,INFO,All The Feature Is Selected By Value
+11-05-2022 15:19:19,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:19:19,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:19:19,INFO,Predicting The Final Outputs
+11-05-2022 15:21:22,INFO,Request Method : POST
+11-05-2022 15:21:22,INFO,All The Feature Is Selected By Value
+11-05-2022 15:21:22,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:21:22,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:21:22,INFO,Predicting The Final Outputs
+11-05-2022 15:21:56,INFO,Request Method : POST
+11-05-2022 15:21:56,INFO,All The Feature Is Selected By Value
+11-05-2022 15:21:56,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:21:56,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:21:56,INFO,Predicting The Final Outputs
+11-05-2022 15:23:00,INFO,Request Method : POST
+11-05-2022 15:23:00,INFO,All The Feature Is Selected By Value
+11-05-2022 15:23:00,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:23:00,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:23:00,INFO,Predicting The Final Outputs
+11-05-2022 15:23:21,INFO,The Home Page Is Displayed
+11-05-2022 15:24:45,INFO,The Home Page Is Displayed
+11-05-2022 15:25:04,INFO,The Home Page Is Displayed
+11-05-2022 15:25:44,INFO,The Home Page Is Displayed
+11-05-2022 15:26:32,INFO,The Home Page Is Displayed
+11-05-2022 15:26:36,INFO,The Home Page Is Displayed
+11-05-2022 15:28:03,INFO,Request Method : POST
+11-05-2022 15:28:03,INFO,All The Feature Is Selected By Value
+11-05-2022 15:28:04,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:28:04,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:28:04,INFO,Predicting The Final Outputs
+11-05-2022 15:30:34,INFO,Request Method : POST
+11-05-2022 15:30:34,INFO,All The Feature Is Selected By Value
+11-05-2022 15:30:34,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:30:34,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:30:34,INFO,Predicting The Final Outputs
+11-05-2022 15:30:51,INFO,Request Method : POST
+11-05-2022 15:30:51,INFO,All The Feature Is Selected By Value
+11-05-2022 15:30:51,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:30:51,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:30:51,INFO,Predicting The Final Outputs
+11-05-2022 15:31:06,INFO,Loading Pickle File For The Heating & Cooling Load
+11-05-2022 15:31:06,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-05-2022 15:31:08,INFO,Loading Pickle File For The Heating & Cooling Load
+11-05-2022 15:31:09,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-05-2022 15:31:11,INFO,Request Method : POST
+11-05-2022 15:31:11,INFO,All The Feature Is Selected By Value
+11-05-2022 15:31:11,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:31:11,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:31:11,INFO,Predicting The Final Outputs
+11-05-2022 15:31:17,INFO,Request Method : POST
+11-05-2022 15:31:17,INFO,All The Feature Is Selected By Value
+11-05-2022 15:31:17,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:31:17,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:31:17,INFO,Predicting The Final Outputs
+11-05-2022 15:31:22,INFO,The Home Page Is Displayed
+11-05-2022 15:31:42,INFO,Request Method : POST
+11-05-2022 15:31:42,INFO,All The Feature Is Selected By Value
+11-05-2022 15:31:42,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:31:42,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:31:42,INFO,Predicting The Final Outputs
+11-05-2022 15:32:05,INFO,Request Method : POST
+11-05-2022 15:32:06,INFO,All The Feature Is Selected By Value
+11-05-2022 15:32:06,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:32:06,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:32:06,INFO,Predicting The Final Outputs
+11-05-2022 15:32:46,INFO,Request Method : POST
+11-05-2022 15:32:46,INFO,All The Feature Is Selected By Value
+11-05-2022 15:32:46,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:32:46,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:32:46,INFO,Predicting The Final Outputs
+11-05-2022 15:33:19,INFO,Request Method : POST
+11-05-2022 15:33:19,INFO,All The Feature Is Selected By Value
+11-05-2022 15:33:19,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:33:19,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:33:19,INFO,Predicting The Final Outputs
+11-05-2022 15:36:46,INFO,Request Method : POST
+11-05-2022 15:36:46,INFO,All The Feature Is Selected By Value
+11-05-2022 15:36:46,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:36:46,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:36:46,INFO,Predicting The Final Outputs
+11-05-2022 15:41:15,INFO,Request Method : POST
+11-05-2022 15:41:15,INFO,All The Feature Is Selected By Value
+11-05-2022 15:41:15,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:41:15,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:41:15,INFO,Predicting The Final Outputs
+11-05-2022 15:41:57,INFO,Request Method : POST
+11-05-2022 15:41:57,INFO,All The Feature Is Selected By Value
+11-05-2022 15:41:57,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:41:57,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:41:57,INFO,Predicting The Final Outputs
+11-05-2022 15:42:29,INFO,Request Method : POST
+11-05-2022 15:42:29,INFO,All The Feature Is Selected By Value
+11-05-2022 15:42:29,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:42:29,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:42:29,INFO,Predicting The Final Outputs
+11-05-2022 15:47:18,INFO,Loading Pickle File For The Heating & Cooling Load
+11-05-2022 15:47:19,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-05-2022 15:47:22,INFO,Loading Pickle File For The Heating & Cooling Load
+11-05-2022 15:47:22,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-05-2022 15:47:50,INFO,Request Method : POST
+11-05-2022 15:47:50,INFO,All The Feature Is Selected By Value
+11-05-2022 15:47:50,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:47:50,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:47:50,INFO,Predicting The Final Outputs
+11-05-2022 15:51:51,INFO,Request Method : POST
+11-05-2022 15:51:51,INFO,All The Feature Is Selected By Value
+11-05-2022 15:51:51,INFO,Applying Min-Max Scaler For The Heating Load
+11-05-2022 15:51:51,INFO,Applying The PCA On Scaling User Data
+11-05-2022 15:51:51,INFO,Predicting The Final Outputs
+12-05-2022 06:36:57,INFO,Loading Pickle File For The Heating & Cooling Load
+12-05-2022 06:36:59,INFO,Pickle File Load For Heating, Cooling & PCA Model
+12-05-2022 06:37:02,INFO,Loading Pickle File For The Heating & Cooling Load
+12-05-2022 06:37:03,INFO,Pickle File Load For Heating, Cooling & PCA Model
+12-05-2022 06:37:57,INFO,The Home Page Is Displayed
+12-05-2022 06:38:10,INFO,The Home Page Is Displayed
+12-05-2022 06:38:14,INFO,The Home Page Is Displayed
+12-05-2022 06:38:24,INFO,The Home Page Is Displayed
+12-05-2022 06:40:47,INFO,The Home Page Is Displayed
+12-05-2022 06:43:48,INFO,The Home Page Is Displayed
+12-05-2022 06:43:51,INFO,The Home Page Is Displayed
+12-05-2022 06:43:57,INFO,The Home Page Is Displayed
+12-05-2022 06:44:10,INFO,The Home Page Is Displayed
+12-05-2022 06:44:40,INFO,The Home Page Is Displayed
+12-05-2022 06:44:57,INFO,The Home Page Is Displayed
+12-05-2022 06:45:39,INFO,The Home Page Is Displayed
+12-05-2022 06:45:55,INFO,The Home Page Is Displayed
+12-05-2022 06:46:47,INFO,The Home Page Is Displayed
+12-05-2022 06:47:16,INFO,The Report Method Is Calling For Showing The Report
+12-05-2022 06:48:21,INFO,The Home Page Is Displayed
+12-05-2022 06:51:46,INFO,The Report Method Is Calling For Showing The Report
+12-05-2022 06:52:04,INFO,The Report Method Is Calling For Showing The Report
+13-05-2022 19:38:15,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 19:38:16,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 19:38:20,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 19:38:21,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 19:38:26,INFO,The Home Page Is Displayed
+13-05-2022 19:38:58,INFO,Request Method : POST
+13-05-2022 19:38:58,INFO,All The Feature Is Selected By Value
+13-05-2022 19:38:58,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 19:38:58,INFO,Applying The PCA On Scaling User Data
+13-05-2022 19:38:58,INFO,Predicting The Final Outputs
+13-05-2022 19:39:25,INFO,Request Method : POST
+13-05-2022 19:39:25,INFO,All The Feature Is Selected By Value
+13-05-2022 19:39:25,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 19:39:25,INFO,Applying The PCA On Scaling User Data
+13-05-2022 19:39:25,INFO,Predicting The Final Outputs
+13-05-2022 19:42:31,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 19:42:31,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 19:42:31,INFO,Request Method : POST
+13-05-2022 19:42:31,INFO,All The Feature Is Selected By Value
+13-05-2022 19:42:31,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 19:42:31,INFO,Applying The PCA On Scaling User Data
+13-05-2022 19:42:31,INFO,Predicting The Final Outputs
+13-05-2022 19:43:44,INFO,Request Method : POST
+13-05-2022 19:43:44,INFO,All The Feature Is Selected By Value
+13-05-2022 19:43:44,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 19:43:44,INFO,Applying The PCA On Scaling User Data
+13-05-2022 19:43:44,INFO,Predicting The Final Outputs
+13-05-2022 19:48:44,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 19:48:44,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 19:48:47,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 19:48:47,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 19:48:55,INFO,The Home Page Is Displayed
+13-05-2022 19:49:21,INFO,Request Method : POST
+13-05-2022 19:49:21,INFO,All The Feature Is Selected By Value
+13-05-2022 19:49:21,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 19:49:21,INFO,Applying The PCA On Scaling User Data
+13-05-2022 19:49:21,INFO,Predicting The Final Outputs
+13-05-2022 19:52:15,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 19:52:15,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 19:52:16,INFO,Request Method : POST
+13-05-2022 19:52:16,INFO,All The Feature Is Selected By Value
+13-05-2022 19:52:16,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 19:52:16,INFO,Applying The PCA On Scaling User Data
+13-05-2022 19:52:16,INFO,Predicting The Final Outputs
+13-05-2022 20:15:55,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 20:15:55,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 20:15:59,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 20:15:59,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 20:16:03,INFO,The Home Page Is Displayed
+13-05-2022 20:16:19,INFO,Request Method : POST
+13-05-2022 20:16:19,INFO,All The Feature Is Selected By Value
+13-05-2022 20:16:19,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 20:16:19,INFO,Applying The PCA On Scaling User Data
+13-05-2022 20:16:19,INFO,Predicting The Final Outputs
+13-05-2022 20:16:57,INFO,Request Method : POST
+13-05-2022 20:16:57,INFO,All The Feature Is Selected By Value
+13-05-2022 20:16:57,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 20:16:57,INFO,Applying The PCA On Scaling User Data
+13-05-2022 20:16:57,INFO,Predicting The Final Outputs
+13-05-2022 21:34:13,INFO,Request Method : POST
+13-05-2022 21:34:13,INFO,All The Feature Is Selected By Value
+13-05-2022 21:34:13,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 21:34:13,INFO,Applying The PCA On Scaling User Data
+13-05-2022 21:34:13,INFO,Predicting The Final Outputs
+13-05-2022 21:35:51,INFO,Request Method : POST
+13-05-2022 21:35:51,INFO,All The Feature Is Selected By Value
+13-05-2022 21:35:52,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 21:35:52,INFO,Applying The PCA On Scaling User Data
+13-05-2022 21:35:52,INFO,Predicting The Final Outputs
+13-05-2022 21:37:24,INFO,Request Method : POST
+13-05-2022 21:37:24,INFO,All The Feature Is Selected By Value
+13-05-2022 21:37:24,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 21:37:24,INFO,Applying The PCA On Scaling User Data
+13-05-2022 21:37:24,INFO,Predicting The Final Outputs
+13-05-2022 21:45:28,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 21:45:29,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:04:55,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:05:08,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:06:02,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:06:02,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:06:06,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:06:06,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:06:16,INFO,The Home Page Is Displayed
+13-05-2022 22:06:43,INFO,Request Method : POST
+13-05-2022 22:06:43,INFO,All The Feature Is Selected By Value
+13-05-2022 22:06:43,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:06:43,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:06:43,INFO,Predicting The Final Outputs
+13-05-2022 22:07:19,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:07:20,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:09:17,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:09:17,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:09:20,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:09:20,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:09:25,INFO,The Home Page Is Displayed
+13-05-2022 22:09:40,INFO,Request Method : POST
+13-05-2022 22:09:40,INFO,All The Feature Is Selected By Value
+13-05-2022 22:09:40,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:09:40,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:09:40,INFO,Predicting The Final Outputs
+13-05-2022 22:11:28,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:11:29,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:11:33,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:11:33,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:11:47,INFO,The Home Page Is Displayed
+13-05-2022 22:12:07,INFO,Request Method : POST
+13-05-2022 22:12:07,INFO,All The Feature Is Selected By Value
+13-05-2022 22:12:07,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:12:07,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:12:07,INFO,Predicting The Final Outputs
+13-05-2022 22:17:15,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:17:15,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:17:40,INFO,Request Method : POST
+13-05-2022 22:17:40,INFO,All The Feature Is Selected By Value
+13-05-2022 22:17:40,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:17:40,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:17:40,INFO,Predicting The Final Outputs
+13-05-2022 22:25:40,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:25:41,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:25:53,INFO,The Home Page Is Displayed
+13-05-2022 22:26:12,INFO,Request Method : POST
+13-05-2022 22:26:12,INFO,All The Feature Is Selected By Value
+13-05-2022 22:26:12,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:26:12,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:26:12,INFO,Predicting The Final Outputs
+13-05-2022 22:27:07,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:27:08,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:27:27,INFO,Request Method : POST
+13-05-2022 22:27:27,INFO,All The Feature Is Selected By Value
+13-05-2022 22:27:27,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:27:28,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:27:28,INFO,Predicting The Final Outputs
+13-05-2022 22:28:40,INFO,Request Method : POST
+13-05-2022 22:28:40,INFO,All The Feature Is Selected By Value
+13-05-2022 22:28:40,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:28:40,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:28:40,INFO,Predicting The Final Outputs
+13-05-2022 22:30:09,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:30:09,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:30:25,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:30:26,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:30:45,INFO,Request Method : POST
+13-05-2022 22:30:46,INFO,All The Feature Is Selected By Value
+13-05-2022 22:30:46,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:30:46,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:30:46,INFO,Predicting The Final Outputs
+13-05-2022 22:31:03,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:31:04,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:31:18,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:31:18,INFO,Pickle File Load For Heating, Cooling & PCA Model
+13-05-2022 22:31:35,INFO,Request Method : POST
+13-05-2022 22:31:35,INFO,All The Feature Is Selected By Value
+13-05-2022 22:31:35,INFO,Applying Min-Max Scaler For The Heating Load
+13-05-2022 22:31:35,INFO,Applying The PCA On Scaling User Data
+13-05-2022 22:31:35,INFO,Predicting The Final Outputs
+13-05-2022 22:48:25,INFO,Loading Pickle File For The Heating & Cooling Load
+13-05-2022 22:48:25,INFO,Pickle File Load For Heating & Cooling models
+13-05-2022 22:49:03,INFO,Request Method : POST
+13-05-2022 22:49:03,INFO,All The Feature Is Selected By Value
+13-05-2022 22:49:03,INFO,Predicting The Final Outputs
+13-05-2022 22:49:30,INFO,Request Method : POST
+13-05-2022 22:49:30,INFO,All The Feature Is Selected By Value
+13-05-2022 22:49:30,INFO,Predicting The Final Outputs
