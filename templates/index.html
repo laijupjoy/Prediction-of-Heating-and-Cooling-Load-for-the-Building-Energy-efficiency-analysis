@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+
+    <link href="{{ url_for('static', filename='script/script.js') }}" rel="stylesheet">
+
+</head>
+
+<body>
+    <body>
+    <div class="jumbotron jumbotron-fluid" style="background-color: #e3f2fd;">
+  <div class="container">
+    <h2 class="display-8">Prediction of Heating and Cooling Load</h2>
+      <h2 class="display-8">for Building Energy efficiency analysis</h2>
+      <br> <br>
+      <h4 class="mx-2" style="color: red;" >Please fill the following details in order to Predict Heating & Cooling Load</h4>
+
+  </div>
+    <br> <br>
+    <div class="container">
+        <form action="\predict" method="post" class="my-3">
+            <div class="form-row">
+              <div class="col">
+                <div class="card my-3 mx-3" id="card" style="width: 21rem;">
+                  <div class ="card-body">
+                    <h5 class="card-title">Relative Compactness</h5>
+                    <input type="text" name="relative_compactness" class="form-control" placeholder="Enter Float Value"
+                    required ="required">
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card my-3 mx-3" id="card1" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Surface Area</h5>
+                    <input type="text" name="surface_area" class="form-control" placeholder="Enter Float Value"
+                    required="required">
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card my-3 mx-3" id="card2" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Wall Area</h5>
+                    <input type="text" name="wall_area" class="form-control" placeholder="Enter Float Value"
+                    required="required">
+                  </div>
+                </div>
+              </div>  
+              <div class="col">
+                <div class="card mx-3" id="card3" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Roof Area</h5>
+                    <input type="text" name="roof_area" class="form-control" placeholder="Enter Float value"
+                    required="required">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <br>
+            <div class="form-row">
+              <div class="col">
+                <div class="card my-3 mx-3" id="card4" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Overall Height</h5>
+                    <input type="text" name="overall_height" class="form-control" placeholder="Enter Float value"
+                    required="required">
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card my-3 mx-3" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Orientation</h5>
+                    <select name="orientation" id = "Orientation">
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                      <option value="4">4</option>
+                      <option value="5">5</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card my-3 mx-3" id="card5" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Glazing Area</h5>
+                    <input type="text" name="glazing_area" class="form-control" placeholder="Enter Float value"
+                    required="required">
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card my-3 mx-3" style="width: 21rem;">
+                  <div class="card-body">
+                    <h5 class="card-title">Glazing Area Distribution</h5>
+                    <select name="glazing_area_distribution" id = "Glazing Area Distribution">
+                      <option value="0">0</option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                      <option value="4">4</option>
+                      <option value="5">5</option>
+                    </select>
+                  </div>
+                 </div>
+               </div>
+            </div>
+            <br>
+
+            <!-- Submit -->
+            <div class="col my-3">
+              <input type="submit" id="button" value="Submit" class="btn btn-primary">
+            </div>
+        </form>
+        <br>
+<div class="container">
+          <h3>{{ prediction_text }}</h3>
+        </div>
+
+        <br>
+    </div>
+
+    <footer>
+      <a href="https://github.com/laijupjoy/Prediction-of-Heating-and-Cooling-Load-for-the-Building-Energy-efficiency-analysis" target="_blank"><i class="fa fa-github"></i></a>
+      <br>
+      <small class="copyright text-muted">copyright@: Laiju P Joy</small>
+    </footer>
+  <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
