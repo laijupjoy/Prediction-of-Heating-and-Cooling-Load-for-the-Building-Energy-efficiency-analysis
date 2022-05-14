@@ -68,7 +68,7 @@ to determine the output variables HL and CL of residential buildings.
 
 ![](Resources/comp.png)
 
-We chosse Random Forest model as best model, because it have very low RMSE value.
+Select Random Forest model as best model, because it have very low RMSE value.
 
 
 ## Web Application User Interface
