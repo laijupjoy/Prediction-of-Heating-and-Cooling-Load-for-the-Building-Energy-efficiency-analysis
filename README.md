@@ -1,4 +1,4 @@
-# Internship-Energy-Efficiency
+# Energy-Efficiency
 
 ## Table of Content
 - Introduction
